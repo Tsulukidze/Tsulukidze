@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently computer Engineering student at Sakarya University 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me temur.tsulukidze@gmail.com
+- 📫 How to reach me https://tsulukidze.xyz
 
 <!---
 Tsulukidze/Tsulukidze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
