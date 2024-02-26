@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Temur @Tsulukidze
 - 👀 I’m interested in Programming
-- 🌱 I’m currently computer Engineering student at Sakarya University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/temur-tsulukidze-64a9ab1b1/)
 
